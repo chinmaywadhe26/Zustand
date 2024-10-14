@@ -5,8 +5,9 @@ function App() {
   console.log(store)
 
   return (
-    <>
-    <div>hi</div>
+    <> 
+    
+    
     </>
   )
 }
